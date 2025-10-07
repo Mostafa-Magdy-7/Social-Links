@@ -12,7 +12,7 @@ body{
 .links{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
     padding: 20px;
 }
 .special-gothic-expanded-one-regular {
@@ -23,7 +23,7 @@ body{
 .button{
     font-family: "Special Gothic Expanded One";
     height: 50px;
-    width: 17rem;
+    width: 20rem;
     background-color: hsl(0, 0%, 20%);
     
     
@@ -37,5 +37,5 @@ body{
     color: black;
 }
 .bio{
-    color: hsl(0, 0%, 60%);
+    color: hsl(0, 0%, 80%);
 }
