@@ -1,0 +1,41 @@
+.location{
+    color:hsl(75, 94%, 57%)
+}
+body{
+    background-color:  hsl(0, 0%, 8%);
+    min-height: 100vh;
+    color:aliceblue
+}
+.card{
+    background-color: hsl(0, 0%, 12%)
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+}
+.special-gothic-expanded-one-regular {
+  font-family: "Special Gothic Expanded One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.button{
+    font-family: "Special Gothic Expanded One";
+    height: 50px;
+    width: 17rem;
+    background-color: hsl(0, 0%, 20%);
+    
+    
+}
+.location{
+    font-family: "Special Gothic Expanded One";
+
+}
+.button:hover{
+    background-color:hsl(75, 94%, 57%);
+    color: black;
+}
+.bio{
+    color: hsl(0, 0%, 60%);
+}
